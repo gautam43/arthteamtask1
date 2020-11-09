@@ -1,0 +1,8 @@
+1.python version ==3.8.3
+2.tcpdump software in linux system-tcpdump-4.9.2-g.el8.x86_64
+3.docker software installed in system - docker-ce-18.09.0
+4.pyttsx3 version - 2.9
+5.aws configureed in the system
+6.hadoop software - hadoop-1.2.1-1.x86_64.rpm
+7.jdk- jdk-8u171-linux-x64.rpm
+8.account on docker hub
